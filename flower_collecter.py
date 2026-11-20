@@ -1,4 +1,4 @@
-# let duck/flower collect s to get score, if 
+# let duck/wizards to collect flowers to get score before time over 
 import pgzrun
 import time
 from random import randint
